@@ -1,0 +1,70 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "continent",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "title": "seat",
+    "summary": "type",
+    "description": [
+      {
+        "type": "paragraph",
+        "text": "In sunt do ut esse minim occaecat ullamco.",
+        "spans": []
+      }
+    ],
+    "slider": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1547082299-de196ea013d6"
+    },
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1606248897732-2c5ffe759c04"
+    },
+    "countries": 75,
+    "languages": 95,
+    "cities": 10,
+    "cities_list": "phrase",
+    "cities_group": [
+      {
+        "thumbnail": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6"
+        },
+        "flag": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1560457079-9a6532ccb118"
+        },
+        "city": "sail",
+        "country": "blue"
+      }
+    ]
+  }
+}
